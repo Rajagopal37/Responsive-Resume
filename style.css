@@ -15,8 +15,12 @@
 li{
     display: inline-block;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 35px;
     width: 100px;
     padding-left:50px ;
     text-align: center;
+}
+
+.card-body {
+    background-color: rgb(235, 241, 247);
 }
