@@ -1,26 +1,13 @@
 
-*{
-
-}
-
-body{
- background-color: rgb(30, 8, 8);
-}
-
-
-.homepage{
-    height: 100vh;
-    position: flex;
-    text-align:center ;
+.Homepage{
+  background-color: rgba(105, 93, 90, 0.43);
+  padding: 50px;
 }
 
 .fa-solid{
     color: rgb(17, 14, 226);
 }
 
-.photo{
-    border-radius: 10px;
-}
 .name{
     font-size: 40px;
 }
@@ -28,7 +15,8 @@ body{
 li{
     display: inline-block;
     text-decoration: none;
-    font-size: 34px;
-    margin: 0 auto;
+    font-size: 30px;
     width: 100px;
+    padding-left:50px ;
+    text-align: center;
 }
