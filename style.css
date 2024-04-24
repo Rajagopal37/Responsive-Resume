@@ -1,0 +1,34 @@
+
+*{
+
+}
+
+body{
+ background-color: rgb(30, 8, 8);
+}
+
+
+.homepage{
+    height: 100vh;
+    position: flex;
+    text-align:center ;
+}
+
+.fa-solid{
+    color: rgb(17, 14, 226);
+}
+
+.photo{
+    border-radius: 10px;
+}
+.name{
+    font-size: 40px;
+}
+
+li{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 34px;
+    margin: 0 auto;
+    width: 100px;
+}
